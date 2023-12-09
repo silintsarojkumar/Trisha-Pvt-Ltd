@@ -75,10 +75,11 @@ button:hover{
     text-align: center;
 }
 #about{
-    font-size: 30px;
+    font-size: 25px;
     color: aliceblue;
     border-width: 2px;
     width: 250px;
+    height: 60px
     
     
     margin-right: 1150px ;
