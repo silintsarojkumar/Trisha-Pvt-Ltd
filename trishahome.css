@@ -85,7 +85,7 @@ button:hover{
     margin-left: 5px;
     background-color: rgb(21, 19, 24);
     border-radius: 20px;
-    text-align: center;
+    
     display: inline-block;
 }
 #about1{
@@ -102,7 +102,7 @@ button:hover{
     width: 150px;
     background-color: rgb(14, 13, 13);
     border-radius: 20px;
-    text-align: center;
+   
     display: inline-block;
     display: flex;
 
