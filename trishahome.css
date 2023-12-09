@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#Nev{
+   background-color: black;
+   height: 60px;
+   display: flex;
+   justify-content: space-between;
+   align-content: flex-start;
+
+
+    
+
+}
+.logo:hover{
+    transform: scale(.9);
+}
+.logo{
+    
+    margin-left: 20px;
+    width: 150px;
+    height: 58px;
+  
+    
+    
+}
+#button{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: flex-start;
+    align-items: center;
+    margin: 20px;
+}
+#logoimg{
+    
+    width: 250px;
+    height: 58px;
+    background-image:  url(https://scontent.fpat3-3.fna.fbcdn.net/v/t39.30808-6/409038848_122101166582143815_9138524487214900950_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=RSo0uufTb1EAX-_gcON&_nc_ht=scontent.fpat3-3.fna&oh=00_AfB0D0wERvrX17C2DbNkC0f5n_2m5cNxibRRxEAF-JcN0g&oe=65787C88);
+    background-size: cover;
+    
+   border-radius: 220000000%;
+    
+    
+    
+    
+    
+}
+#login{
+    border: 30px;
+    margin: 5px;
+}
+#register{
+    border: 30px;
+    margin: 5px;
+    
+}
+
+button{
+    font-size: 15px;
+    border-radius: 5px;
+    border-width: 8px;
+    border-color: #0f1111;
+    align-self: flex-end;
+    
+}
+button:hover{
+    background-color: pink;
+}
+#welcome{
+    color: azure;
+    background-color: black;
+    text-align: center;
+}
+#about{
+    font-size: 30px;
+    color: aliceblue;
+    border-width: 2px;
+    width: 150px;
+    
+    
+    margin-right: 1150px ;
+    margin-left: 5px;
+    background-color: rgb(21, 19, 24);
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+}
+#about1{
+    color: azure;
+    margin: 5px;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+#contact{
+    color: antiquewhite;
+    margin-left:5px;
+    margin-right: 1200px;
+    width: 100px;
+    background-color: rgb(14, 13, 13);
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+
+}
+#contact2{
+    display: flex;
+    justify-content: end;
+
+    
+    
+   
+    
+    
+    
+    
+}
+#contact3{
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    background-color: beige;
+    border-radius: 50px;
+    background-image: url(https://scontent.fpat1-2.fna.fbcdn.net/v/t39.30808-6/409073200_122101280132143815_6093910506868717184_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_ohc=6XG533RRUWMAX_41FjP&_nc_ht=scontent.fpat1-2.fna&oh=00_AfD8u5Gh9YqJHMxaMOSUtdbAbw1UHvKUfLeAVTH7QaFSZg&oe=6579DA3D);
+    background-size:cover;
+
+    list-style: none;
+    margin-right: 100px;
+
+}
+#Address{
+    color: antiquewhite;
+    margin-left: 5px;
+    display: inline-block;
+
+}
+footer{
+    background-color: #0f1111;
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+}
