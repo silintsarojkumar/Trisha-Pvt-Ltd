@@ -1,7 +1,5 @@
 
-body{
-    display:inline-block;
-}
+
 #Nev{
    background-color: black;
    height: 60px;
@@ -142,4 +140,10 @@ footer{
     color: aliceblue;
     text-align: center;
     height: 50px;
+}
+@media {max-width: 700 ;
+    
+}
+body{
+    display:inline-block;
 }
