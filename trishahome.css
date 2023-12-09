@@ -79,7 +79,8 @@ button:hover{
     color: aliceblue;
     border-width: 2px;
     width: 250px;
-    height: 60px
+    height: 60px;
+    text-align: center;
     
     
     margin-right: 1150px ;
@@ -103,6 +104,7 @@ button:hover{
     width: 150px;
     background-color: rgb(14, 13, 13);
     border-radius: 20px;
+    text-align: center;
    
     display: inline-block;
     display: flex;
