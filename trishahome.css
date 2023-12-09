@@ -80,15 +80,17 @@ button:hover{
     border-width: 2px;
     width: 250px;
     height: 60px;
-    text-align: center;
+    
     
     
     margin-right: 1150px ;
     margin-left: 5px;
     background-color: rgb(21, 19, 24);
     border-radius: 20px;
+    text-align: center;
+    display:block;
     
-    display: inline-block;
+    
 }
 #about1{
     color: azure;
@@ -106,7 +108,7 @@ button:hover{
     border-radius: 20px;
     text-align: center;
    
-    display: inline-block;
+    display: block;
     display: flex;
 
 }
