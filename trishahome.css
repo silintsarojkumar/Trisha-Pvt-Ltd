@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+body{
+    display:inline-block;
+}
 #Nev{
    background-color: black;
    height: 60px;
